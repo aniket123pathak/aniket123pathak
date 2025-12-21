@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Codeforces-%23FF8C00.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aniketpathak581@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 

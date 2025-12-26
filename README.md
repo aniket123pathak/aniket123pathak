@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://codeforces.com/profile/aniketpathak" target="_blank">
+  <a href="https://codeforces.com/profile/aniket1726" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23FF8C00.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 

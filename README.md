@@ -43,7 +43,7 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/aniket-pathak" target="_blank">
+  <a href="www.linkedin.com/in/aniket-pathak-847841320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 

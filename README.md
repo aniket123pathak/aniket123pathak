@@ -1,11 +1,11 @@
 <h1 align="center">Hi , I'm Aniket Pathak 👋</h1>
 
 <p align="center">
-  <b>Full Stack Web Developer | Competitive Programmer | Web3 Enthusiast</b>
+  <b>Backend Developer | Competitive Programmer | Web3 Enthusiast</b>
 </p>
 
 <p align="center">
-  I am also passionate about <b>C++</b> and <b>Rust</b> . I actively attend contests on Codeforces to sharpen my algorithmic thinking.
+  I am also passionate about <b>C++</b> and <b>Rust</b> . I actively attend contests on Codeforces and Codechef to sharpen my algorithmic thinking.
 </p>
 
 <br>
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://codeforces.com/profile/aniket1726" target="_blank">
+  <a href="https://codeforces.com/profile/stf.up.yb" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23FF8C00.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 
